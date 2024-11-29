@@ -1,0 +1,18 @@
+*{
+    
+    background-color: rgb(233, 219, 219);
+    
+    text-align: center;
+
+}
+
+body{
+    background: url(ufndo\ dc\ 5.jpg);
+    background-size:contain;
+    background-position: center;
+}
+h1{
+
+    text-align: center;
+    color: rgb(255, 0, 0);
+}
